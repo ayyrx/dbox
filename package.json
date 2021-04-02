@@ -1,0 +1,7 @@
+{
+    "name": "dbox",
+    "version": "0.0.0",
+    "bin": {
+        "dbox": "./index.js"
+    }
+}
